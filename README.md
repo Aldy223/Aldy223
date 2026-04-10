@@ -53,9 +53,9 @@
 ---
 
 ## 🏆 Achievements
-
-<img src="https://github-profile-trophy.vercel.app/?username=Aldy223&theme=darkhub&no-frame=true&margin-w=10" />
-
+![Stars](https://img.shields.io/github/stars/Aldy223?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Aldy223?style=for-the-badge)
+![Repos](https://img.shields.io/badge/dynamic/json?label=Repositories&query=public_repos&url=https://api.github.com/users/Aldy223&style=for-the-badge)
 ---
 
 ## 👀 Visitor Count
