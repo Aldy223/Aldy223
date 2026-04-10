@@ -54,7 +54,7 @@
 
 ## 🏆 Achievements
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aldy223&theme=tokyonight&no-frame=true&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=Aldy223&theme=darkhub&no-frame=true&margin-w=10" />
 
 ---
 
